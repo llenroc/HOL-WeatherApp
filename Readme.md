@@ -54,6 +54,8 @@ Please follow the instructions to add a controls to the design surface
 We are using the OpenWeatherMap service to get the weather data, please take a look at the `GetWeather` method in `ViewController.cs` file.
 Once we parsed the data returned from the web service we assign it to the `Description` label
 
+`Description.Text = $"City {city}, {temperature}°C";`
+
 ## What's next?
 
 Once you competed this exercise, you can try extend the app with:
