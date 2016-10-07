@@ -39,8 +39,7 @@ Please follow the instructions to add a controls to the design surface
 2. Drag and drop a `Label` control from the Toolbox to the designer surface
 3. Let's give it a meaningful name that we can identify in the `ViewController` code
 4. Now repeat the steps 2 and 3, but add the `Map View` instead
-5. When you're done the Designer should looks something like this: 
-
+5. When you're done the Designer should looks something like this: ![Designer](https://github.com/prashantvc/HOL-WeatherApp/blob/master/Screenshots/Designer.PNG)
 6. Finally, lets run it in the simulator to verify that map loads
 
 ## Get location co-ordinates from the Map
