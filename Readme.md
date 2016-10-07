@@ -22,7 +22,7 @@ and code to get the weather data.
 
 And finally `AppDelegate.cs` this where the bootstrapping code for app
 
-You can take a look at completed project, if you get stuck any where during this exercise
+You can take a look at completed project in Finish folder, if you get stuck any where during this exercise
 
 ## Pre-requisites 
 Before executing the labs be sure to setup your macOS or Windows machines as mentioned in the Lab Setup guidelines. 
