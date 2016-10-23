@@ -109,5 +109,11 @@
   <ItemGroup>
     <Content Include="Entitlements.plist" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WeatherPCL\WeatherPCL.csproj">
+      <Project>{8b17bcec-0968-4db2-818a-95384ccd2e27}</Project>
+      <Name>WeatherPCL</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
