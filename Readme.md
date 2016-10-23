@@ -152,7 +152,7 @@ public class Activity1 : Activity, ILocationListener
     public void OnStatusChanged(string provider, Availability status, Bundle extras) {}
 }
 ```
-12.3043646,76.577806
+
 9. Override `OnResume` so that `MyActivity` will begin listening to the `LocationManager` when the activity comes into the foreground:
 ```
 protected override void OnResume()
